@@ -1,0 +1,5 @@
+#to ignore any folder, see the / after the folder name
+ignorefolder/
+
+# to ignore all the files with extention log
+*.log
