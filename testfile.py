@@ -13,3 +13,6 @@ guddu.status()
 
 vicky = hellogithub.laborclass(200, 10)
 vicky.status()
+
+priya = hellogithub.laborclass(10, 10)
+priya.status()
